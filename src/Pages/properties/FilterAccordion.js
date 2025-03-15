@@ -227,7 +227,7 @@ export default function FilterAccordion({ filterData }) {
                     onChange={() => {
                       handleCheckcondition(option.value)
                     }}
-                    style={{ color: "#0F0074" }} // Apply custom color
+                    style={{ color: "#5F732C" }} // Apply custom color
                     value={option.value}
                     name='condition-radio'
                   />
@@ -266,7 +266,7 @@ export default function FilterAccordion({ filterData }) {
                     onChange={() => {
                       handleCheckType(option.value);
                     }}
-                    style={{ color: "#0F0074" }} // Apply custom color
+                    style={{ color: "#5F732C" }} // Apply custom color
                     value={option.value}
                     name="condition-radio"
                   />

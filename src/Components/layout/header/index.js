@@ -87,7 +87,7 @@ const Header = () => {
                 sx={{
                   textTransform: "none",
                   ...(window.innerWidth < 450 && { fontSize: "10px" }),
-                  color: "#0F0074",
+                  color: "#5F732C",
                 }}
                 onClick={() =>
                   (window.location.href =

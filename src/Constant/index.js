@@ -1,7 +1,7 @@
 export const baseApiUrl =
   "https://ozn31ermlc.execute-api.ap-south-1.amazonaws.com/dev";
 
-export const primaryColor = "#0F0074";
+export const primaryColor = "#5F732C";
 
 export const phoneRegExp = /^(?:\+61|0)[2-478](?:[ -]?[0-9]){8}$/;
 

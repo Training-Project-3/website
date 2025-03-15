@@ -56,7 +56,7 @@ body {
 }
 
 .text_primary{
-  color: #0F0074 !important;
+  color: #5F732C !important;
 }
 
 .offcanvas{
@@ -82,7 +82,7 @@ ul > li {
 
 footer {
   /* background: linear-gradient(180deg, #ffb100 0%,#ff8a23 100%); */
-  background-color: #0F0074;
+  background-color: #5F732C;
   color: #fff;
   padding: 10px;
   text-align: center;
