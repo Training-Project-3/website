@@ -61,7 +61,7 @@ const Header = () => {
           >
             <ImageWrap>
               {/* <a href="https://www.newebon.com/"> */}
-              <a href="https://home.newebon.com/">
+              <a href="https://oruland.com/">
 
                 <img
                   className="logo_image"
@@ -87,11 +87,11 @@ const Header = () => {
                 sx={{
                   textTransform: "none",
                   ...(window.innerWidth < 450 && { fontSize: "10px" }),
-                  color: "#5F732C",
+                  color: "#808000",
                 }}
                 onClick={() =>
                   (window.location.href =
-                    "https://realestateapp.newebon.com/login")
+                    "https://app.oruland.com/login")
                 }
                 variant="text"
               >
@@ -101,7 +101,7 @@ const Header = () => {
               <UIButton
                 onClick={() =>
                   (window.location.href =
-                    "https://realestateapp.newebon.com/register")
+                    "https://app.oruland.com/register")
                 }
               >
                 Register

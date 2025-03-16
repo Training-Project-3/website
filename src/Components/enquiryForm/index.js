@@ -263,7 +263,7 @@ const EnquiryForm = ({ enquiryMutate, isLoading, detailedView = false }) => {
           <div className='center my-3'>
             <UIButton
               onClick={() =>
-                (window.location.href = "https://realestateapp.newebon.com/login")
+                (window.location.href = "https://app.oruland.com/login")
 
                 
 
@@ -278,7 +278,7 @@ const EnquiryForm = ({ enquiryMutate, isLoading, detailedView = false }) => {
               <span
                 onClick={() =>
                   (window.location.href =
-                    "https://realestateapp.newebon.com/register")
+                    "https://app.oruland.com/register")
                 }
                 className='text_primary text-decoration-underline cursor-pointer'
               >
